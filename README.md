@@ -1,2 +1,2 @@
 # Overview of Displays
-PlaceHolderText
+### By Levi Cheney
