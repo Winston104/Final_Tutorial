@@ -34,6 +34,8 @@ A **Quad High Definition** display has the resolution of *2560 x 1440* pixels
 ### 8K
 - An **8K** display has the resolution of *7680 x 4320* pixels
 - Has 16 times more pixels than FHD
+
+[Back to the top](#overview-of-displays)
 # Display Panel
 ### Plasma Display
 - Use small cells containing plasma that responds to electric fields
@@ -64,7 +66,7 @@ A comparison between a LCD TV and an OLED TV:
 
 ![Comparison](https://cdn.shopify.com/s/files/1/1312/4403/files/lg-oled-perfect-black_large.jpg?10668780705091478185)
 
-
+[Back to the top](#overview-of-displays)
 # Aspect Ratio
 The aspect ratio is the relationship of the width and height of the screen. It is typically shown as two numbers with a colon in the middle.
 The standard aspect ratio
@@ -80,19 +82,19 @@ Here is a visual example of the comparisons
 
 ![Aspect Ratios](https://filmglossary.ccnmtl.columbia.edu/img/assets/aspectratio.jpg)
 
-
+[Back to the top](#overview-of-displays)
 # Refresh Rate
 - The number of times an image is diplayed per second 
 - This is typically measured in hertz
 - The most common refresh rates are 60Hz, 75Hz, 144Hz, and 240Hz
 
-
+[Back to the top](#overview-of-displays)
 # Response time
 - The amount of time a pixel in a display takes to change
 - Measured in milliseconds (ms) 
 - Lower numbers mean faster transitions
 
-
+[Back to the top](#overview-of-displays)
 # Physical Connections
 ### HDMI
 A High-Definition Multimedia Interface
