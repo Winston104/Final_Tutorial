@@ -3,10 +3,10 @@
 This tutorial will be an overview of the different specifications of digital displays. Categories covered in this will include:
 - [**Resolution**](#resolution)
 - [**Display Panel**](#display-panel)
-- **Aspect Ratio**
-- **Refresh Rate**
-- **Response Time**
-- **Physical Connections**
+- [**Aspect Ratio**](#aspect-ratio)
+- [**Refresh Rate**](#refresh-rate)
+- [**Response Time**](#response-time)
+- [**Physical Connections**](#physical-connections)
 
 This is meant for people who have very little prior knowledge of these topics. The pages will explain the basic principles. 
 # Resolution
