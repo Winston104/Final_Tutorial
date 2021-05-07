@@ -7,3 +7,4 @@ This tutorial will be an overview of the different specifications of digital dis
 - Aspect Ratio
 - Refresh Rate
 - Response time
+This tutorial is meant for people who have very little prior knowledge of these topics. The pages will explain the basic principles. 
