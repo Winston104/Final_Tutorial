@@ -125,3 +125,6 @@ Video Graphics Array
 ### Composite
 
 ![Composite](https://images-na.ssl-images-amazon.com/images/I/61iXcGPao8L._AC_SL1000_.jpg)
+
+
+[Back to the top](#overview-of-displays)
